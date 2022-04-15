@@ -1,11 +1,6 @@
 ## Self-Driving-Car-with-Neural-Networks
 
 
-
-In this blog post, we’ll see how to write a program  to simulate a self driving car by using an open source 
-
-emulator of driving car by using Neural Networks.
-
 If you want to run this python code , you should first  enable the python environment where you want to
 
 deploy this project.
@@ -1092,29 +1087,5 @@ if __name__ == '__main__':
     app = socketio.Middleware(sio, app)
     eventlet.wsgi.server(eventlet.listen(('', 4567)), app)
 
-```
-
-First open  your terminal with your enviroment
-
-later go to your folder where is your code called drive.py
-
-type
-
-python drive.py
-
-
-
-open your drive emulator and choose autonomous mode
-
-![](Self-Driving-Local_files/3.jpg)
-
-
-
-and then you will check your how is running your code.
-
-
-
-```none
-[![Watch the video]()](https://youtu.be/GuamaNgul5w)
 ```
 
