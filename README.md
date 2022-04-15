@@ -1,11 +1,7 @@
 ## Self-Driving-Car-with-Neural-Networks
 
 
-If you want to run this python code , you should first  enable the python environment where you want to
 
-deploy this project.
-
-I have provided two notebooks to generate the neural network model, one that can be deployed in colab and another in your local computer.
 
 
 
@@ -44,7 +40,6 @@ and select the folder that you want to save your data.
 
 
 
-Otherwise you can use my saved data in GitHub called track1 
 
 
 
